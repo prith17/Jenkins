@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 # This Python program will print Hello World...
-print("Hello Prithvi ...")
+print("Hello Prithvi...")
